@@ -39,8 +39,8 @@ const Login = () => {
         <h2 className="title">Login</h2>
         <div className="notice">
           <p>For testing purposes, use:</p>
-          <p>Username: <strong>user</strong></p>
-          <p>Password: <strong>user@123</strong></p>
+          <p>Username: <strong>deepanshu</strong></p>
+          <p>Password: <strong>deepanshu</strong></p>
         </div>
         <div className="input-wrapper">
           <label className="label-text" htmlFor="username">Username</label>
